@@ -38,7 +38,7 @@ const AnimatedRoundedTag = () => {
       className="bg-white bg-opacity-20 backdrop-filter backdrop-blur-md border border-gray-500 rounded-full px-4 py-2 flex items-center gap-2 shadow-md mb-6"
     >
       <FiTag className="text-white" />
-      <span className="text-white text-sm font-medium">New Feature</span>
+      <span className="text-white text-sm font-medium">Reliable & Convenient Repairs</span>
     </motion.div>
   );
 };
